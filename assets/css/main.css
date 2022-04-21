@@ -37,6 +37,24 @@ p {
     text-align: center;
 }
 
+.button {
+  background-color: #FEF5C6; /* Green */
+  border: none;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-top: 10px;
+  margon-bottom: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+
 /* Links */
 a {
     color: #E95C31;
@@ -51,7 +69,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #D3D2F9;
+    color: #9693F0;
     text-decoration: none;
     outline: 0;
 }
@@ -257,5 +275,5 @@ bt {
 }
 
 .project_subtitle {
-
+	color: #E95C31;
 }
